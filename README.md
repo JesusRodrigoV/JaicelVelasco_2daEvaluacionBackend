@@ -78,6 +78,8 @@ Construir un microservicio que:
   - Mantener independencia del backend principal.
 
 ### Diagrama de Flujo de Integración
+![Captura de pantalla 2025-05-02 230636](https://github.com/user-attachments/assets/ebb45dd2-3cc6-42b8-b487-96042306430)
+
 
 ## 3. Implementacion tecnica
 
