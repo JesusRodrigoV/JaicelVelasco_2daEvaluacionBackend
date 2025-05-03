@@ -99,7 +99,9 @@ testimonios-microservice/
 
 ## 4. Pruebas y Documentación
 
+
 ### Pruebas con Postman
+
 
 **Query de ejemplo**:
 
@@ -115,7 +117,10 @@ query {
   }
 }
 ```
-
+#### Ejemplo de prueba exitosa con token valido
+![Captura de pantalla 2025-05-02 230636](https://github.com/user-attachments/assets/67ae3023-778d-408b-a871-46cb02cbd31f)
+#### Ejemplo de prueba fallida con teoken invalido
+![Captura de pantalla 2025-05-02 231009](https://github.com/user-attachments/assets/ca0437d8-11fe-4b76-8320-58ec133e8d71)
 ### Documentación
 
 #### 1. Instalación
